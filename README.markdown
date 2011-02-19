@@ -1,6 +1,8 @@
 Flip Clock Screen Saver
 =======================
 
+<img src='https://github.com/jonathanpenn/flipclock_screensaver/raw/master/screenshot.png'>
+
 I love minimal screen savers and was impressed by [Fliqlo][1], a screen saver
 that mimics a simple flip clock. It runs on Mac and Windows by using Adobe
 Flash.
